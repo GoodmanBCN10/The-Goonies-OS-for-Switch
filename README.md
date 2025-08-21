@@ -1,25 +1,25 @@
 # The-Goonies-OS-for-Switch
 Clean Pack CFW with hekate, Atmosphere and DBI with essencial apps only
-PACK THE GOONIES OS / FIRMWARE 20.3.0 / ATMOSPHERE 1.9.3 / DBI 796 (ruso)
+PACK THE GOONIES OS / FIRMWARE PACK 20.3.0 / ATMOSPHERE 1.9.3 / DBI 796 (Russian)
 
-· Añadido logo "The Goonies" y bootlogo "icon joy" sonido de arranque "Switch"
+· Added "The Goonies" logo and "joy icon" boot logo, "Switch" boot sound
 
-COMO INSTALAR EL PACK
+HOW TO INSTALL THE PACK
 
-· Con la consola apagada, extrae la microSD y ponla en tu PC. Elimina todas las carpetas EXCEPTO LAS CARPETAS "emuMMC" y "Switch" (esta puede que no la tengas).
-· Copia todo el contenido del PACK en la raíz de tu consola.
+· With the console off, remove the microSD card and insert it into your PC. Delete all folders EXCEPT THE "emuMMC" and "Switch" folders (you may not have this one).
+· Copy the entire contents of the PACK to the root of your console.
 
-· El DBI sigue en ruso.
+· The DBI is still in Russian.
 
-· Si al iniciar no sale el logo de "The Goonies" y no se escucha el sonido, hay que hacer estos pasos:
-   1. Reinicia la consola. Entrarás de nuevo en el menu "Launch". Dale a X CLOSE.
-   2. Dale a "Tools". Luego dale a Arch bit (abajo a la derecha). Entonces dale a "Fix Archive Bit". Tardará más o menos en hacer su trabajo en función del tamaño y la velocidad de vuestra microSD. Cuando acaba saldrá un mensaje que pone "Done! Archive bits fixed: XX (a mi me sale 49) unset and 0 set" o algo similar. Le das a X CLOSE.
-   3. Ya por último le das otra vez a Home y desde "Launch" ya puedes iniciar.
+· If the "The Goonies" logo doesn't appear and you don't hear any sound when you start it, follow these steps:
+  1. Restart the console. You'll be taken back to the "Launch" menu. Click X CLOSE.
+  2. Click "Tools". Then, press Arch Bit (bottom right). Then press "Fix Archive Bit." It will take more or less time to do its job depending on the size and speed of your microSD card. When it's finished, a message will appear saying "Done! Archive bits fixed: XX (mine came in at 49) unset and 0 set" or something similar. Press X CLOSE.
+3. Finally, press Home again and from "Launch" you can start.
 
-· He dejado solo 4 "discos" cuando conectes la consola por DBI/Responder MTP.
-	Saldrán:
-	1: SD CARD
-	5: SD CARD INSTALL (Donde copiarás los juegos).
-	7: Saves
+I left only 4 "disks" when you connect the console via DBI/Responder MTP.
+The following will appear:
+1: SD CARD
+5: SD CARD INSTALL (Where you'll copy the games).
+7: Saves
 
-· Incluye firmware 20.3.0 por si no has actualizado. Una vez hayas actualizado, es recomendable eliminar la carpeta "Firmware 20.3.0" de la microSD.
+Includes firmware 20.3.0 in case you haven't updated. Once you've updated, it's recommended to delete the "Firmware 20.3.0" folder from the microSD card.
