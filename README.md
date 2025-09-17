@@ -1,12 +1,12 @@
 # The-Goonies-OS-for-Switch
 Clean Pack CFW with hekate, Atmosphere and DBI with essencial apps only
-PACK THE GOONIES OS / FIRMWARE PACK 20.3.0 / ATMOSPHERE 1.9.3 / DBI 796 (Russian)
+PACK THE GOONIES OS / FIRMWARE PACK 20.4.0 / ATMOSPHERE 1.9.4 / DBI v810 (English translated by @Morce3232)
 
 · Added "The Goonies" logo and "joy icon" boot logo, "Switch" boot sound
 
 HOW TO INSTALL THE PACK
 
-· With the console off, remove the microSD card and insert it into your PC. Delete all folders EXCEPT THE "emuMMC" and "Switch" folders (you may not have this one).
+· With the console off, remove the microSD card and insert it into your PC. Delete all folders EXCEPT THE "emuMMC" and "Nintendo" folders (you may not have this one).
 · Copy the entire contents of the PACK to the root of your console.
 
 · The DBI is still in Russian.
@@ -22,4 +22,4 @@ The following will appear:
 5: SD CARD INSTALL (Where you'll copy the games).
 7: Saves
 
-Includes firmware 20.3.0 in case you haven't updated. Once you've updated, it's recommended to delete the "Firmware 20.3.0" folder from the microSD card.
+Includes firmware 20.4.0 in case you haven't updated. Once you've updated, it's recommended to delete the "Firmware 20.4.0" folder from the microSD card.
