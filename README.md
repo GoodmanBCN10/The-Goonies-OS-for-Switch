@@ -1,6 +1,6 @@
 # The-Goonies-OS-for-Switch
 Clean Pack CFW with hekate, Atmosphere and DBI with essencial apps only
-PACK THE GOONIES OS / FIRMWARE PACK 20.4.0 / ATMOSPHERE 1.9.4 / DBI v810 (English translated by @Morce3232)
+PACK THE GOONIES OS / FIRMWARE PACK 20.5.0 / ATMOSPHERE 1.9.5 / DBI v810 (Spanish translate)
 
 · Added "The Goonies" logo and "joy icon" boot logo, "Switch" boot sound
 
@@ -22,4 +22,4 @@ The following will appear:
 5: SD CARD INSTALL (Where you'll copy the games).
 7: Saves
 
-Includes firmware 20.4.0 in case you haven't updated. Once you've updated, it's recommended to delete the "Firmware 20.4.0" folder from the microSD card.
+Includes firmware 20.5.0 in case you haven't updated. Once you've updated, it's recommended to delete the "Firmware 20.5.0" folder from the microSD card.
