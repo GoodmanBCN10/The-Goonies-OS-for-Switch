@@ -9,7 +9,7 @@ HOW TO INSTALL THE PACK
 · With the console off, remove the microSD card and insert it into your PC. Delete all folders EXCEPT THE "emuMMC" and "Nintendo" folders (you may not have this one).
 · Copy the entire contents of the PACK to the root of your console.
 
-· The DBI is still in Russian.
+· The DBI v810 translate to spanish.
 
 · If the "The Goonies" logo doesn't appear and you don't hear any sound when you start it, follow these steps:
   1. Restart the console. You'll be taken back to the "Launch" menu. Click X CLOSE.
