@@ -54,14 +54,15 @@ This project does not include copyrighted games or unauthorized Nintendo content
 **The Goonies APP**
 [GitHub Repository](https://github.com/GoodmanBCN10/The-Goonies-APP)
 
+**OUR COMMUNITy**
+https://t.me/+UzMRfl2Jebo5NTZk
+
+**Support this project:**
+https://www.paypal.com/paypalme/GoodmanBCN
+
 ---
 
 ### 🏴‍☠️ The Goonies OS
 
 **Clean. Simple. Ready.**
 
-**OUR COMMUNITy**
-https://t.me/+UzMRfl2Jebo5NTZk
-
-**Support this project:**
-https://www.paypal.com/paypalme/GoodmanBCN
