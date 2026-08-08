@@ -54,7 +54,7 @@ This project does not include copyrighted games or unauthorized Nintendo content
 **The Goonies APP**
 [GitHub Repository](https://github.com/GoodmanBCN10/The-Goonies-APP)
 
-**OUR COMMUNITy**
+**Our community**
 https://t.me/+UzMRfl2Jebo5NTZk
 
 **Support this project:**
