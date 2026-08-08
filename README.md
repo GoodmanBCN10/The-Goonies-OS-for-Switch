@@ -12,3 +12,9 @@ The following will appear:
 1: SD CARD
 5: SD CARD INSTALL (Where you'll copy the games).
 7: Saves
+
+**OUR COMMUNITy**
+https://t.me/+UzMRfl2Jebo5NTZk
+
+**Support this project:**
+https://www.paypal.com/paypalme/GoodmanBCN
